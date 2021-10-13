@@ -10,4 +10,4 @@
 ### Important notes
 * [Splunk notes](https://towards.network/blue-team/splunk)
 * [TCPDump](https://towards.network/blue-team/tcpdump)
-* [Wireshark]((https://towards.network/blue-team/wireshark)
+* [Wireshark](https://towards.network/blue-team/wireshark)
