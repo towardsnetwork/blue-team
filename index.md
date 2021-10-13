@@ -1,5 +1,5 @@
 # Blue Team resources
-## The defender guide
+## The Defender guide
 
 ### Incident Handling Response
 ### Threat Intelligence
