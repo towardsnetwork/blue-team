@@ -1,6 +1,6 @@
 # Blue Team resources
-### The defender guide
+## The defender guide
 
-## Incident Handling Response
-## Threat Intelligence
-## Digital Forensics
+### Incident Handling Response
+### Threat Intelligence
+### Digital Forensics
