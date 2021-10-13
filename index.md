@@ -1,3 +1,3 @@
-# Blue Team recources
+# Blue Team resources
 ### The defender guide
 
