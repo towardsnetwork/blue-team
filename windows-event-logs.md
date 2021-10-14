@@ -7,6 +7,6 @@
 - Wevtutil.exe (CLI)
 - Get-WinEvent (powershell)
 4. [Types of events](https://docs.microsoft.com/en-us/windows/win32/eventlog/event-types)
-- Error, Warning, Information, Sucess Audit, Failure Audit
+Error, Warning, Information, Sucess Audit, Failure Audit
 
 TryHackMe [windows event logs](https://tryhackme.com/room/windowseventlogs) room
