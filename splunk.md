@@ -1,10 +1,10 @@
 # Splunk
 ### Resources to learn splunk
-Boss of the SOC v2,v3. Try both v2 and v3 
+1. Boss of the SOC v2,v3. Try both v2 and v3 
 - Download VM for v2 or v3 from cyberdefenders.org and complete challanges.
 - Run Bots [v2](https://tryhackme.com/room/splunk2gcd5) or [v3](https://tryhackme.com/room/splunk3zs) on TryHackMe.com
 
-Splunk [quick refrence guide](https://www.splunk.com/pdfs/solution-guides/splunk-quick-reference-guide.pdf)
+2. Splunk [quick refrence guide](https://www.splunk.com/pdfs/solution-guides/splunk-quick-reference-guide.pdf)
 
 # Important commands
 
