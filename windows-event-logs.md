@@ -1,3 +1,3 @@
 # Windows Event Logs
 
-TryHackMe [windowseventlogs](https://tryhackme.com/room/windowseventlogs) room
+TryHackMe [windows event logs](https://tryhackme.com/room/windowseventlogs) room
