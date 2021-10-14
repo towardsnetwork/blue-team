@@ -8,7 +8,7 @@
 
 # Important commands
 
-Number of events - `sourcetype="my_source" | stats count as Total`
+Number of events `sourcetype="my_source" | stats count as Total`
 
-List sourcetypes - `|  metadata type=sourcetypes`
+List sourcetypes `|  metadata type=sourcetypes`
 
