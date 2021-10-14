@@ -2,6 +2,8 @@
 
 ## Useful links
 - [https://www.loggly.com/ultimate-guide/windows-logging-basics/](https://www.loggly.com/ultimate-guide/windows-logging-basics/)
+- Windows security log events - [https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx)
+- 
 
 1. Location : `C:\Windows\System32\winevt\Logs` 
 2. Extensions : `Logs*.evtx` `Config*.evt`
@@ -12,4 +14,8 @@
 4. [Types of events](https://docs.microsoft.com/en-us/windows/win32/eventlog/event-types)
 - Error, Warning, Information, Sucess Audit, Failure Audit
 5. Powershell logs `Applications and Services Logs > > Microsoft > Windows > PowerShell > Operational`
+6. Custom Views - `Event Viewer > Custom Views > Right Click > Create custom view`
+7. Security Logs - `Event Viewer > Windows Logs > Security`
+
+
 TryHackMe [windows event logs](https://tryhackme.com/room/windowseventlogs) room
