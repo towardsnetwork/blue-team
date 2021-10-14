@@ -15,7 +15,7 @@
 ### Logs
 1. Windows event logs [notes](https://towards.network/blue-team/windows-event-logs)
 2. Syslog
-  - UDP 514 (default), TCP 514
+  -   UDP 514 (default), TCP 514
   - Generally switches, routers, firewalls, end points use this system to send event or system log to syslog server.
   - Syslog has no auth or encryption by default
   - Has 3 parts Priority Value (PRI), Header, Message
