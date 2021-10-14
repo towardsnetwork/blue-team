@@ -21,7 +21,6 @@
   - Has 3 parts Priority Value (PRI), Header, Message
   - Available on unix based systems and web servers
 3. Sysmon
-  - A better log system for windows
-  - Windows Event Logs vs Sysmon
-    - Windows event logs are a headache and sysmon is better for logging
-  - Sysmon from the Sysinternals website
+  - Windows event logs are a headache and sysmon is better for logging
+  - Sysmon configurations [https://github.com/SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)
+  - 
