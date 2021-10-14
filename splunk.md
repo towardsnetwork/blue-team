@@ -5,3 +5,6 @@ Boss of the SOC v2,v3. Try both v2 and v3
 - Run Bots [v2](https://tryhackme.com/room/splunk2gcd5) or [v3](https://tryhackme.com/room/splunk3zs) on TryHackMe.com
 
 # Important commands
+
+Number of events - `sourcetype="my_source" | stats count as Total`
+List sourcetypes - `|  metadata type=sourcetypes`
