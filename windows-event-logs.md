@@ -1,10 +1,10 @@
 # Windows Event Logs
 
 - Location : `C:\Windows\System32\winevt\Logs` 
-- Extensions : `Config*.evt` `Logs*.evtx`
+- Extensions : `Logs*.evtx` `Config*.evt`
 
 ## Accessing logs
-- Event Viewer (GUI)
+- Event Viewer (eventvwr.msc) (GUI)
 - Wevtutil.exe (CLI)
 - Get-WinEvent (powershell)
 
