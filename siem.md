@@ -10,4 +10,5 @@ Splunk cheatsheet and resources are at [https://towards.network/blue-team/splunk
 - Sigma Format -> Sigma converter -> Splunk|Elasticsearch|QRadar|ArcSight|Logpoint quries
 - Sigma rules are written in YAML 
 - Few sigma rules example to get started are on github [https://github.com/SigmaHQ/sigma/tree/master/rules](https://github.com/SigmaHQ/sigma/tree/master/rules)
-- Eg: Generate splunk query to log whoami execution `sigmac -t splunk -c tools/config/generic/sysmon.yml ./rules/windows/process_creation/win_susp_whoami.yml`
+- Eg: Generate splunk query to log whoami execution 
+  - `sigmac -t splunk -c tools/config/generic/sysmon.yml ./rules/windows/process_creation/win_susp_whoami.yml`
