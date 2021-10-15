@@ -2,8 +2,9 @@
 ## The Defender guide
 
 ### SIEM and Logs
-* SIEM [notes](https://towards.network/blue-team/siem)
+* [SIEM notes](https://towards.network/blue-team/siem)
 * [Splunk notes](https://towards.network/blue-team/splunk)
+* [Sigma rules](https://towards.network/blue-team/siem#sigma)
 * Windows logs [notes](https://towards.network/blue-team/windows-logs)
 * Sigma rules [notes](https://towards.network/blue-team/sigma)
 
