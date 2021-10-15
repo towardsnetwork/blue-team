@@ -3,7 +3,6 @@
 ## Useful links
 - [https://www.loggly.com/ultimate-guide/windows-logging-basics/](https://www.loggly.com/ultimate-guide/windows-logging-basics/)
 - Windows security log events - [https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx)
-- 
 
 1. Location : `C:\Windows\System32\winevt\Logs` 
 2. Extensions : `Logs*.evtx` `Config*.evt`
@@ -21,9 +20,13 @@
 - wevtutil qe /?
 - Query event logs CLI
 - wevtutil.exe [Microsoft docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil)
-- wevtutil qe Application /c:1 /rd:true /f:text
+- `wevtutil qe Application /c:1 /rd:true /f:text`
   - /RD is Direction, false = most recent
   - /c is count
+
+### Get-WinEvent
+- `Get-WinEvent -LogName Application | Where-Object { $_.ProviderName -Match 'WLMS' }`
+- List providers `Get-WinEvent -ListProvider *`
 - 
 
 TryHackMe [windows event logs](https://tryhackme.com/room/windowseventlogs) room
