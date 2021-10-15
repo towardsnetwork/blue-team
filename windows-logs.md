@@ -1,3 +1,14 @@
+1. Windows Event Logs
+2. Syslog
+  -   UDP 514 (default), TCP 514
+  - Generally switches, routers, firewalls, end points use this system to send event or system log to syslog server.
+  - Syslog has no auth or encryption by default
+  - Has 3 parts Priority Value (PRI), Header, Message
+  - Available on unix based systems and web servers
+3. Sysmon
+  - Windows event logs are a headache and sysmon is better for logging
+  - Sysmon configurations [https://github.com/SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)
+ 
 # Windows Event Logs
 
 ## Useful links
