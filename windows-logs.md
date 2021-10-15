@@ -13,9 +13,17 @@
 - Get-WinEvent (powershell)
 4. [Types of events](https://docs.microsoft.com/en-us/windows/win32/eventlog/event-types)
 - Error, Warning, Information, Sucess Audit, Failure Audit
-5. Powershell logs `Applications and Services Logs > > Microsoft > Windows > PowerShell > Operational`
+5. Powershell logs `Applications and Services Logs > Microsoft > Windows > PowerShell > Operational`
 6. Custom Views - `Event Viewer > Custom Views > Right Click > Create custom view`
 7. Security Logs - `Event Viewer > Windows Logs > Security`
 
+### wevtutil.exe
+- wevtutil qe /?
+- Query event logs CLI
+- [Microsoft docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil)
+- wevtutil qe Application /c:1 /rd:true /f:text
+  - /RD is Direction, false = most recent
+  - /c is count
+- 
 
 TryHackMe [windows event logs](https://tryhackme.com/room/windowseventlogs) room
