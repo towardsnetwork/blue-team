@@ -4,8 +4,8 @@
 Splunk cheatsheet and resources are at [https://towards.network/blue-team/splunk](https://towards.network/blue-team/splunk)
 
 # Sigma
-Sigma [github](https://github.com/SigmaHQ/sigma)
-SIEM query translator (sigma -> splunk or Azure sentinal) [uncoder.io](https://uncoder.io)
+### Sigma [github](https://github.com/SigmaHQ/sigma)
+### SIEM query translator (sigma -> splunk or Azure sentinal) [uncoder.io](https://uncoder.io)
 - Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward way
 - Sigma Format -> Sigma converter -> Splunk|Elasticsearch|QRadar|ArcSight|Logpoint quries
 - Sigma rules are written in YAML 
