@@ -20,7 +20,7 @@
 ### wevtutil.exe
 - wevtutil qe /?
 - Query event logs CLI
-- [Microsoft docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil)
+- wevtutil.exe [Microsoft docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil)
 - wevtutil qe Application /c:1 /rd:true /f:text
   - /RD is Direction, false = most recent
   - /c is count
