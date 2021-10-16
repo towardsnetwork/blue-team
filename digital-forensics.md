@@ -13,13 +13,13 @@
 - Get profiles we can use `volatility -f MEMORY_FILE.raw imageinfo`
 - List process `volatility -f MEMORY_FILE.raw --profile=WinXPSP2x86 pslist`
 - View hidden process(process has 'False' listed) `volatility -f MEMORY_FILE.raw --profile=WinXPSP2x86 psxview`
-- Hidden process - `ldrmodules` 3 columns middle, InLoad, InInit, InMem. If any of these are false, that module has likely been injected
+- Hidden process `ldrmodules` 3 columns middle, InLoad, InInit, InMem. If any of these are false, that module has likely been injected
 - View unexpected patches in the standard system DLLs `apihooks` 
 - View/Dump injected code `volatility -f cridex.vmem --profile=WinXPSP2x86 malfind -D /tmp` (-D is destination)
 - List all of the DLLs in memory `dlllist`
-- Dump DLLS in memory - `--pid=PID dlldump -D <Destination Directory>`
-- 
+- Dump DLLS in memory `--pid=PID dlldump -D <Destination Directory>`
 
-Practice at 
+Practice | Tutorials
 - Cyberdefenders DumpMe [https://cyberdefenders.org/labs/65](https://cyberdefenders.org/labs/65)
 - Tryhackme [https://tryhackme.com/room/bpvolatility](https://tryhackme.com/room/bpvolatility)
+- [Memory Forensics with Vol(a|u)tility talk](https://www.youtube.com/watch?v=dB5852eAgpc)
