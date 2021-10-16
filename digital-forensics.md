@@ -17,7 +17,8 @@
 - View unexpected patches in the standard system DLLs `apihooks` 
 - View/Dump injected code `volatility -f cridex.vmem --profile=WinXPSP2x86 malfind -D /tmp` (-D is destination)
 - List all of the DLLs in memory `dlllist`
-- Dump DLLS in memory `--pid=PID dlldump -D <Destination Directory>`
+- Dump DLLs in memory `--pid=PID dlldump -D <Destination Directory>`
+- Upload files or Sha256 sum the DLLs and search the hashes in virustotal etc.
 
 Practice | Tutorials
 - Cyberdefenders DumpMe [https://cyberdefenders.org/labs/65](https://cyberdefenders.org/labs/65)
