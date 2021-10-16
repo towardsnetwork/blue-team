@@ -8,6 +8,8 @@
 ## Volatility
 1. Volatility is a free memory forensics tool for linux
 2. FTK Imager can be used to obtaining a memory capture from machines
+3. .raw format is one of the most common memory file type, VMware - .vmem, Hyper-V - .bin, Parallels - .mem, VirtualBox - .sav
+4. 
 
 Practice at 
 - Cyberdefenders DumpMe [https://cyberdefenders.org/labs/65](https://cyberdefenders.org/labs/65)
