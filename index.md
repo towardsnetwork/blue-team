@@ -13,6 +13,7 @@
 ### Threat Intelligence
 
 ### Digital Forensics
+[Volatility](https://towards.network/blue-team/digital-forensics)
 
 ### Important notes
 * [TCPDump](https://towards.network/blue-team/tcpdump)
