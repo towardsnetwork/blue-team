@@ -16,6 +16,8 @@
 - Hidden process - `ldrmodules` 3 columns middle, InLoad, InInit, InMem. If any of these are false, that module has likely been injected
 - View unexpected patches in the standard system DLLs `apihooks` 
 - View/Dump injected code `volatility -f cridex.vmem --profile=WinXPSP2x86 malfind -D /tmp` (-D is destination)
+- List all of the DLLs in memory `dlllist`
+- Dump DLLS in memory - `--pid=PID dlldump -D <Destination Directory>`
 - 
 
 Practice at 
