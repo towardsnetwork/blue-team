@@ -35,4 +35,4 @@ Practice | Tutorials
 ## Windows forensics
 - Check windows Task scheduler
 - Firewall rules both in and out, log
-Tryhackme room [investigatingwindows](https://tryhackme.com/room/investigatingwindows), read this [https://markonsecurity.medium.com/investigating-windows-tryhackme-10e187badedb](https://markonsecurity.medium.com/investigating-windows-tryhackme-10e187badedb)
+- Tryhackme room [investigatingwindows](https://tryhackme.com/room/investigatingwindows), read this [https://markonsecurity.medium.com/investigating-windows-tryhackme-10e187badedb](https://markonsecurity.medium.com/investigating-windows-tryhackme-10e187badedb)
