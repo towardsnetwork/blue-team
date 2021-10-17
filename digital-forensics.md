@@ -30,7 +30,7 @@ Tryhackme rooms
 Practice | Tutorials
 - Cyberdefenders DumpMe [https://cyberdefenders.org/labs/65](https://cyberdefenders.org/labs/65)
 - Tryhackme [https://tryhackme.com/room/bpvolatility](https://tryhackme.com/room/bpvolatility)
-- [Memory Forensics with Vol(a|u)tility talk](https://www.youtube.com/watch?v=dB5852eAgpc)
+- [Memory Forensics with Vol(a|u)tility](https://www.youtube.com/watch?v=dB5852eAgpc) talk on youtube.
 
 ## Windows forensics
 - Check windows Task scheduler
