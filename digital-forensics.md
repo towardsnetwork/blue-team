@@ -7,6 +7,7 @@
 4. 
 
 ## Autopsy 
+1. Rightclick Hard disk > Run Ingest modules
 Tryhackme rooms
 - [https://tryhackme.com/room/btautopsye0](https://tryhackme.com/room/btautopsye0)
 - [https://tryhackme.com/room/autopsy2ze0](https://tryhackme.com/room/autopsy2ze0)
