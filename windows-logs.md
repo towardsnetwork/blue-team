@@ -8,8 +8,6 @@
 * Sysmon
   * Windows event logs are a headache and sysmon is better for logging
   * Sysmon configurations [https://github.com/SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)
- 
-# Windows Event Logs
 
 ## Useful links
 - [https://www.loggly.com/ultimate-guide/windows-logging-basics/](https://www.loggly.com/ultimate-guide/windows-logging-basics/)
