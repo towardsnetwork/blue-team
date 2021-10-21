@@ -38,6 +38,6 @@
 ### Get-WinEvent
 - `Get-WinEvent -LogName Application | Where-Object { $_.ProviderName -Match 'WLMS' }`
 - List providers `Get-WinEvent -ListProvider *` `(Get-WinEvent -ListLog Application).ProviderNames`
-- [Powershell help ms docs] (https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent?view=powershell-5.1)`$Event = Get-WinEvent -LogName 'Windows PowerShell' ; $Event.Count ; `
+- [Powershell help ms docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent?view=powershell-5.1) `$Event = Get-WinEvent -LogName 'Windows PowerShell' ; $Event.Count ;`
 
 TryHackMe [windows event logs](https://tryhackme.com/room/windowseventlogs) room
