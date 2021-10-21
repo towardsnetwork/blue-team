@@ -5,4 +5,6 @@ Incident response is the methodology an organization uses to respond to and mana
 - Cyber-attack frameworks
   * [Lockheed Martin Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
   * [MITRE ATT&CK](https://attack.mitre.org/matrices/enterprise/)
-- Large organizations will typically have their own dedicated team, called a CSIRT - Computer Security Incident Response Team
+- ### CSIRT and CERT
+-  Cyber Emergency Response Team (CERT) or Cyber Security Incident Response Team (CSIRT)
+-  
