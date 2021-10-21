@@ -1,12 +1,14 @@
 # Blue Team resources
 ## The Defender guide
 
+### Phishing analysis
+* [Phishing notes](https://towards.network/blue-team/phishing-analysis)
+
 ### SIEM and Logs
 * [SIEM notes](https://towards.network/blue-team/siem)
 * [Splunk notes](https://towards.network/blue-team/splunk)
 * [Sigma rules](https://towards.network/blue-team/siem#sigma)
 * Windows logs [notes](https://towards.network/blue-team/windows-logs)
-* Sigma rules [notes](https://towards.network/blue-team/sigma)
 * DeepBlueCLI tool [https://github.com/sans-blue-team/DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
 
 ### Incident Handling and Response
