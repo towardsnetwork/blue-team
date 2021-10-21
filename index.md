@@ -2,7 +2,7 @@
 ## The Defender guide
 
 ### Phishing analysis
-* [Phishing notes](https://towards.network/blue-team/phishing-analysis)
+[Phishing notes](https://towards.network/blue-team/phishing-analysis)
 
 ### SIEM and Logs
 * [SIEM notes](https://towards.network/blue-team/siem)
@@ -12,6 +12,7 @@
 * DeepBlueCLI tool [https://github.com/sans-blue-team/DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
 
 ### Incident Handling and Response
+[Incident Handling](https://towards.network/blue-team/incident-handling)
 
 ### Threat Intelligence
 
