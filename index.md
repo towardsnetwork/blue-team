@@ -12,7 +12,7 @@
 * DeepBlueCLI tool [https://github.com/sans-blue-team/DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
 
 ### Incident Handling and Response
-[Incident Handling](https://towards.network/blue-team/incident-handling)
+[Incident Response](https://towards.network/blue-team/incident-response)
 
 ### Threat Intelligence
 
