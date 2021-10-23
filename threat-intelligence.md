@@ -5,7 +5,7 @@
 * Threat intelligence feeds are real-time streams of data that provide information on potential cyber threats and risks.
   * Suspicious domains, Lists of known malware hashes, IP addresses associated with malicious activity etc.
   * [https://www.recordedfuture.com/threat-intelligence-feeds](https://www.recordedfuture.com/threat-intelligence-feeds)
-2. Threat Intelligence Lifecycle [Link](https://www.recordedfuture.com/threat-intelligence-lifecycle-phases)
+2. Threat Intelligence Lifecycle [link](https://www.recordedfuture.com/threat-intelligence-lifecycle-phases)
   * Planning and Direction
   * Collection
   * Analysis
