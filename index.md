@@ -22,3 +22,6 @@
 ### Important notes
 * [TCPDump](https://towards.network/blue-team/tcpdump)
 * [Wireshark](https://towards.network/blue-team/wireshark)
+* Yara
+* Mandiant IOC Editor
+* Mandiant Redline
